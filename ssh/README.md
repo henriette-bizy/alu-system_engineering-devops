@@ -1,1 +1,1 @@
-This directory is about using ssh 
+doing hard things 

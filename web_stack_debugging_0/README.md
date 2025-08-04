@@ -1,1 +1,1 @@
-This directory is about debugging
+ALU doings
